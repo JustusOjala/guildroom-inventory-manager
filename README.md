@@ -1,0 +1,1 @@
+A web frontend to manage guild room sale items, keep track of their prices and generate price stickers. Stock keeping is purposefully omitted, as the effort needed for maintaining it would quickly overtake the effort for manual management.
